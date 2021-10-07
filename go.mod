@@ -1,3 +1,3 @@
-module gbkr-com/minimax
+module github.com/gbkr-com/minimax
 
 go 1.17

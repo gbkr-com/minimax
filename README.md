@@ -1,4 +1,4 @@
-gbkr-com/minimax
+github.com/gbkr-com/minimax
 ===
 
 The minimax algorithm. Decision trees may be assembled by the developer or by
